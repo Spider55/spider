@@ -1,0 +1,12 @@
+{
+  "name": "oo2q1l1866",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/oo2q1l1866",
+  "main": "index.js",
+  "dependencies": {
+    "preact-compat": "3.17.0",
+    "preact": "8.2.5"
+  }
+}
